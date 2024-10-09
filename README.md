@@ -160,7 +160,7 @@ $ docker compose up
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](https://github.com/TaviotBaptiste/Crypto-Viz/blob/main/LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/ArthurDufay" target="_blank">Arthur DUFAY</a> <a href="https://github.com/mamanin" target="_blank">Max MANIN</a> <a href="https://github.com/jojoricard" target="_blank">Joris RICARD</a>, <a href="https://github.com/ltournayre" target="_blank">LTournayre</a>, <a href="https://github.com/TaviotBaptiste" target="_blank">TaviotBaptiste</a>,
