@@ -1,5 +1,5 @@
 
-<h1 align="center">T-DAT-901-LYO_11</h1>
+<h1 align="center">Crypto-Viz</h1>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -17,6 +17,7 @@
 ## :dart: About ##
 
 Scraping cryptocurrency news feed and continuously process the collected data. Provide analytics dynamically with the appropriate graphs.
+Volumes from Docker are push for saving all datas (Ex : Grafana) [DON'T DO THAT IN NORMAL CASE]
 
 ## :sparkles: Features ##
 
